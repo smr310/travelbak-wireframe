@@ -1,0 +1,34 @@
+* {
+    color: black;
+    background-color: grey;
+}
+
+body {
+    margin: 0;
+}
+
+.main-div {
+    margin-top: 30px;
+}
+
+nav {
+    text-align: center;
+    border: 1px solid black;
+    background-color: darkgray
+}
+
+.trip-name {
+    display: inline;
+}
+
+.new-entry-button {
+    display: inline;
+}
+
+.journal-entry {
+    border: 1px solid black;
+    width: 80%;
+    margin: auto;
+    background-color: darkgray;
+    margin-top: 10px;
+}
